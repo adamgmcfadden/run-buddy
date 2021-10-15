@@ -17,7 +17,6 @@ A front-end website build with only HTML and CSS that "offers fitness training s
 
 - [Usage](#usage)
 - [Credits](#credits)
-- [Licenses](#licenses)
 - [Contributing](#contributing)
 - [Contact Information](#contact-information)
 
