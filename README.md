@@ -6,7 +6,7 @@ https://adamgmcfadden.github.io/run-buddy/
 
 ## Description:
 
-A front-end website build with only HTML and CSS that "offers fitness training services". 
+A front-end website built with only HTML and CSS that "offers fitness training services". 
 
 #### Languages Used
 
